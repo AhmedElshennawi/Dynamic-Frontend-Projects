@@ -789,7 +789,9 @@
   padding: 6.4rem 3.2rem 0 3.2rem;
 }
 .testimonial-content {
-  background-image: url(/img/testimonial-background.jpg);
+  /* background: linear-gradient(to bottom, #044266, #737c82); */
+  border-radius: 15px;
+  background: radial-gradient(circle, #0077be, #99a0ec);
 }
 
 .hanson-img img {
