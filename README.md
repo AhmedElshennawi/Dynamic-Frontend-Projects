@@ -21,6 +21,5 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 <p>Kanban Board is a web application that brings visual project management to the next level. Streamline your workflow with an intuitive Kanban board interface, allowing you to organize tasks and projects effortlessly. Create custom boards, move tasks through different stages, and collaborate seamlessly with your team. Stay organized and boost productivity with our user-friendly Kanban solution.</p>
 
-<a href="https://ahmedelshennawi.github.io/Kalbonyan-Elmarsos/03-Kanban%20Board/" target="_blank">PREVIEW SITE</a>
-
+<a href="https://ahmedelshennawi.github.io/Kalbonyan-Elmarsos/03-Kanban%20Board/" target="_blank">PREVIEW SITE</a> 
 <a href="https://github.com/AhmedElshennawi/Kalbonyan-Elmarsos/tree/main/03-Kanban%20Board/" target="_blank">VIEW CODE</a>
