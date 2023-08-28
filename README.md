@@ -11,18 +11,18 @@ Welcome to the **Dynamic Frontend Projects** repository! This GitHub repository 
 ## Project List
 1. **Build Responsive Real-World Websites with HTML and CSS_APPIE**
     - Demonstrates responsive web design using HTML and CSS.
-    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/01-Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS_APPIE/" target="_blank">[APPIE Live Demo]</a>
-    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/01-Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS_APPIE/" target="_blank">[APPIE Source Code]</a>
+    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/01-Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS_APPIE/" target = "_blank">[APPIE Live Demo]</a>
+    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/01-Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS_APPIE/" target = "_blank">[APPIE Source Code]</a>
 
 2. **Omnifood-Optimizations**
     - Focuses on optimizing a food delivery website for performance.
-    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/02-Omnifood-Optimizations/" target="_blank">[Omnifood-Optimizations Live Demo]</a>
-    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/02-Omnifood-Optimizations/" target="_blank">[Omnifood-Optimizations Source Code]</a>
+    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/02-Omnifood-Optimizations/" target ="_blank">[Omnifood-Optimizations Live Demo]</a>
+    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/02-Omnifood-Optimizations/" target = "_blank">[Omnifood-Optimizations Source Code]</a>
 
 3. **Kanban Board**
     - Implements a dynamic task management application.
-    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/03-Kanban%20Board/" target="_blank">[Kanban Board Live Demo]</a> 
-    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/03-Kanban%20Board/" target="_blank">[Kanban Board Source Code]</a>
+    - Live Demo: <a href="https://ahmedelshennawi.github.io/Dynamic-Frontend-Projects/03-Kanban%20Board/" target= "_blank">[Kanban Board Live Demo]</a> 
+    - Source Code: <a href="https://github.com/AhmedElshennawi/Dynamic-Frontend-Projects/tree/main/03-Kanban%20Board/" target= "_blank">[Kanban Board Source Code]</a>
       
 
 ## Usage
@@ -32,7 +32,7 @@ Feel free to explore the individual project folders to gain insights into variou
 I welcome contributions, suggestions, and feedback from the community. If you have ideas for new projects, improvements to existing ones, or bug fixes, please open issues or submit pull requests.
 
 ## Author
-[Ahmed Elshennawi]
+# Ahmed Elshennawi
 
 ## Contact
 Connect with me via email at [ahmed.elshenawy66@gmail.com](mailto:ahmed.elshenawy66@gmail.com) for inquiries or collaboration opportunities.
