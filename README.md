@@ -32,7 +32,7 @@ Feel free to explore the individual project folders to gain insights into variou
 I welcome contributions, suggestions, and feedback from the community. If you have ideas for new projects, improvements to existing ones, or bug fixes, please open issues or submit pull requests.
 
 ## Author
-# Ahmed Elshennawi
+Ahmed Elshennawi
 
 ## Contact
 Connect with me via email at [ahmed.elshenawy66@gmail.com](mailto:ahmed.elshenawy66@gmail.com) for inquiries or collaboration opportunities.
